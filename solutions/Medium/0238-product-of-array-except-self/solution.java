@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Prefix Sum
 // Link     : https://leetcode.com/problems/product-of-array-except-self/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42948000 (beats 0%)
+// Runtime  : 3 ms (beats 24%)
+// Memory   : 71848000 (beats 61%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
