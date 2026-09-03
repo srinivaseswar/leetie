@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Bit Manipulation, Trie
 // Link     : https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42384000 (beats 0%)
+// Runtime  : 986 ms (beats 19%)
+// Memory   : 208344000 (beats 82%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
