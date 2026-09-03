@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array
 // Link     : https://leetcode.com/problems/summary-ranges/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 43096000 (beats 0%)
+// Runtime  : 2 ms (beats 94%)
+// Memory   : 43224000 (beats 21%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
