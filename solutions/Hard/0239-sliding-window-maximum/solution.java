@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query
 // Link     : https://leetcode.com/problems/sliding-window-maximum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42800000 (beats 0%)
+// Runtime  : 30 ms (beats 73%)
+// Memory   : 146076000 (beats 63%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
