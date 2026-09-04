@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 20 Solved
+## Progress Summary: 21 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -23,6 +23,7 @@
 | product-of-array-except-self | Product of Array Except Self | Medium | java | [Problem](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./solutions/Medium/0238-product-of-array-except-self/solution.java) |
 | search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
 | sliding-window-maximum | Sliding Window Maximum | Hard | java | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.java) |
+| smallest-stable-index-i | Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | summary-ranges | Summary Ranges | Easy | java | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.java) |
 | transpose-file | Transpose File | Medium | bash | [Problem](https://leetcode.com/problems/transpose-file/) | [Solution](./solutions/Medium/0194-transpose-file/solution.txt) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
