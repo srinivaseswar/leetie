@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 26 Solved
+## Progress Summary: 27 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -31,4 +31,5 @@
 | the-skyline-problem | The Skyline Problem | Hard | java | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.java) |
 | transpose-file | Transpose File | Medium | bash | [Problem](https://leetcode.com/problems/transpose-file/) | [Solution](./solutions/Medium/0194-transpose-file/solution.txt) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
+| wiggle-sort-ii | Wiggle Sort II | Medium | java | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.java) |
 | xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | java | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.java) |
