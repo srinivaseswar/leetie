@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/largest-divisible-subset/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42984000 (beats 0%)
+// Runtime  : 17 ms (beats 63%)
+// Memory   : 45156000 (beats 60%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
