@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Two Pointers, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/intersection-of-two-arrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42312000 (beats 0%)
+// Runtime  : 2 ms (beats 97%)
+// Memory   : 45176000 (beats 25%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
