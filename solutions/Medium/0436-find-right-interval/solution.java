@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/find-right-interval/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42888000 (beats 0%)
+// Runtime  : 11 ms (beats 97%)
+// Memory   : 54376000 (beats 13%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
