@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph
 // Link     : https://leetcode.com/problems/reconstruct-itinerary/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42628000 (beats 0%)
+// Runtime  : 6 ms (beats 77%)
+// Memory   : 47512000 (beats 14%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
