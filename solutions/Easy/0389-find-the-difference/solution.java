@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String, Bit Manipulation, Sorting
 // Link     : https://leetcode.com/problems/find-the-difference/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42616000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 43436000 (beats 8%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
