@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Greedy, Sorting
 // Link     : https://leetcode.com/problems/non-overlapping-intervals/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42736000 (beats 0%)
+// Runtime  : 50 ms (beats 22%)
+// Memory   : 115788000 (beats 57%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
