@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Math, Reservoir Sampling, Randomized
 // Link     : https://leetcode.com/problems/random-pick-index/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 42252000 (beats 0%)
+// Runtime  : 78 ms (beats 90%)
+// Memory   : 71936000 (beats 38%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
