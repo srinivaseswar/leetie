@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Sliding Window
 // Link     : https://leetcode.com/problems/longest-repeating-character-replacement/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42172000 (beats 0%)
+// Runtime  : 7 ms (beats 89%)
+// Memory   : 45556000 (beats 99%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
@@ -21,7 +21,6 @@ class Solution {
             counts[s.charAt(right) - 'A']++;
             maxCount = Math.max(maxCount, counts[s.charAt(right) - 'A']);
             
-            // If replacements needed exceed k, shrink the window
             while ((right - left + 1) - maxCount > k) {
                 counts[s.charAt(left) - 'A']--;
                 left++;
