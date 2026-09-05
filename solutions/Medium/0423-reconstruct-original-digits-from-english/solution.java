@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Math, String
 // Link     : https://leetcode.com/problems/reconstruct-original-digits-from-english/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42696000 (beats 0%)
+// Runtime  : 5 ms (beats 67%)
+// Memory   : 46188000 (beats 87%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
