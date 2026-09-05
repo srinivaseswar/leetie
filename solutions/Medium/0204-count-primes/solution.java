@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve
 // Link     : https://leetcode.com/problems/count-primes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41852000 (beats 0%)
+// Runtime  : 794 ms (beats 7%)
+// Memory   : 80116000 (beats 9%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
