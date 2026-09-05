@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 50 Solved
+## Progress Summary: 51 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -33,6 +33,7 @@
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-xor-of-two-numbers-in-an-array | Maximum XOR of Two Numbers in an Array | Medium | java | [Problem](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](./solutions/Medium/0421-maximum-xor-of-two-numbers-in-an-array/solution.java) |
+| minimum-genetic-mutation | Minimum Genetic Mutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.java) |
 | minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.java) |
 | minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.java) |
 | missing-number | Missing Number | Easy | java | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](./solutions/Easy/0268-missing-number/solution.java) |
