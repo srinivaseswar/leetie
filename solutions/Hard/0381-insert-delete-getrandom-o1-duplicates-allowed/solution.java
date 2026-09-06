@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Math, Design, Randomized
 // Link     : https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42612000 (beats 0%)
+// Runtime  : 36 ms (beats 17%)
+// Memory   : 100488000 (beats 8%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
