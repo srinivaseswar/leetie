@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/rotate-function/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42604000 (beats 0%)
+// Runtime  : 4 ms (beats 99%)
+// Memory   : 91332000 (beats 32%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
