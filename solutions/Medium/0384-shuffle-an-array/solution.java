@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Design, Randomized
 // Link     : https://leetcode.com/problems/shuffle-an-array/
-// Runtime  : 5 ms (beats 0%)
-// Memory   : 42940000 (beats 0%)
+// Runtime  : 49 ms (beats 85%)
+// Memory   : 52440000 (beats 36%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
