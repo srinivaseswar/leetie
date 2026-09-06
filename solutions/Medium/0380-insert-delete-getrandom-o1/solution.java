@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math, Design, Randomized
 // Link     : https://leetcode.com/problems/insert-delete-getrandom-o1/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42248000 (beats 0%)
+// Runtime  : 27 ms (beats 55%)
+// Memory   : 100428000 (beats 64%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
@@ -37,11 +37,9 @@ class RandomizedSet {
         int index = map.get(val);
         int lastElement = list.get(list.size() - 1);
         
-        // Move last element to the index of the element to delete
         list.set(index, lastElement);
         map.put(lastElement, index);
         
-        // Remove the last element
         list.remove(list.size() - 1);
         map.remove(val);
         return true;
