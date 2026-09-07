@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table
 // Link     : https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42516000 (beats 0%)
+// Runtime  : 93 ms (beats 73%)
+// Memory   : 275304000 (beats 19%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
