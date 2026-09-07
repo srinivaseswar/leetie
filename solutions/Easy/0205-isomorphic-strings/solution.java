@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String
 // Link     : https://leetcode.com/problems/isomorphic-strings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42628000 (beats 0%)
+// Runtime  : 6 ms (beats 89%)
+// Memory   : 43812000 (beats 58%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
