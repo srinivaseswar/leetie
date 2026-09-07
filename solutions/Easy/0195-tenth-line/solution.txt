@@ -1,0 +1,14 @@
+// ──────────────────────────────────────────────────
+// Problem  : 195. Tenth Line
+// Difficulty: Easy
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/tenth-line/
+// Runtime  : 22 ms (beats 79%)
+// Memory   : 4004000 (beats 2%)
+// Language : bash
+// Copyright: (c) 2026 srinivaseswar. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+# Solution 1: Using sed (Recommended)
+sed -n '10p' file.txt
