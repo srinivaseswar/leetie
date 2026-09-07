@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Dynamic Programming
 // Link     : https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42584000 (beats 0%)
+// Runtime  : 8 ms (beats 82%)
+// Memory   : 43164000 (beats 85%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
