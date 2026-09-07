@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/delete-duplicate-emails/
--- Runtime  : 83 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 913 ms (beats 53%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 srinivaseswar. All rights reserved.
 -- Synced by: leetie
