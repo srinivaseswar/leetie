@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array
 // Link     : https://leetcode.com/problems/minimum-distance-to-the-target-element/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42492000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 44960000 (beats 73%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
