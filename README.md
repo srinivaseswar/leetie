@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 96 Solved
+## Progress Summary: 97 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
+| delete-node-in-a-linked-list | Delete Node in a Linked List | Medium | java | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.java) |
 | design-add-and-search-words-data-structure | Design Add and Search Words Data Structure | Medium | java | [Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Solution](./solutions/Medium/0211-design-add-and-search-words-data-structure/solution.java) |
 | distinct-subsequences | Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | distinct-subsequences-ii | Distinct Subsequences II | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.java) |
