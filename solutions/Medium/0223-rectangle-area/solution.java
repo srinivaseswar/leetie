@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Geometry
 // Link     : https://leetcode.com/problems/rectangle-area/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42328000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 44252000 (beats 68%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
