@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 89 Solved
+## Progress Summary: 90 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -36,6 +36,7 @@
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.java) |
 | h-index | H-Index | Medium | java | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
+| implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.java) |
 | insert-delete-getrandom-o1-duplicates-allowed | Insert Delete GetRandom O(1) - Duplicates allowed | Hard | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.java) |
 | intersection-of-two-arrays | Intersection of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
