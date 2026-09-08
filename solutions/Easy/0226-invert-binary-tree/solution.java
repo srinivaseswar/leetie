@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/invert-binary-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42320000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43048000 (beats 27%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
