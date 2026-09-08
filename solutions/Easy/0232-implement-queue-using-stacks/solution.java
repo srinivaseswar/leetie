@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Stack, Design, Queue
 // Link     : https://leetcode.com/problems/implement-queue-using-stacks/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42648000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42968000 (beats 15%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
