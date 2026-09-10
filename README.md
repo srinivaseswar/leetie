@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 113 Solved
+## Progress Summary: 114 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -116,6 +116,7 @@
 | top-k-frequent-elements | Top K Frequent Elements | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.java) |
 | transpose-file | Transpose File | Medium | bash | [Problem](https://leetcode.com/problems/transpose-file/) | [Solution](./solutions/Medium/0194-transpose-file/solution.txt) |
 | ugly-number-ii | Ugly Number II | Medium | java | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.java) |
+| valid-anagram | Valid Anagram | Easy | java | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.java) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
 | wiggle-sort-ii | Wiggle Sort II | Medium | java | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.java) |
 | xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | java | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.java) |
