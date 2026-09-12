@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 121 Solved
+## Progress Summary: 122 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -74,6 +74,7 @@
 | maximum-score-of-non-overlapping-intervals | Maximum Score of Non-overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | maximum-xor-of-two-numbers-in-an-array | Maximum XOR of Two Numbers in an Array | Medium | java | [Problem](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](./solutions/Medium/0421-maximum-xor-of-two-numbers-in-an-array/solution.java) |
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
+| minimum-days-to-score-exactly-n-points | Minimum Days to Score Exactly N Points | Medium | java | [Problem](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Solution](./solutions/Medium/0000-minimum-days-to-score-exactly-n-points/solution.java) |
 | minimum-distance-between-three-equal-elements-ii | Minimum Distance Between Three Equal Elements II | Medium | java | [Problem](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [Solution](./solutions/Medium/3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
 | minimum-distance-to-the-target-element | Minimum Distance to the Target Element | Easy | java | [Problem](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Solution](./solutions/Easy/1848-minimum-distance-to-the-target-element/solution.java) |
 | minimum-distance-to-type-a-word-using-two-fingers | Minimum Distance to Type a Word Using Two Fingers | Hard | java | [Problem](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Solution](./solutions/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/solution.java) |
