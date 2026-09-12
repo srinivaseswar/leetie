@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 120 Solved
+## Progress Summary: 121 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | java | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
+| count-values-with-equally-spaced-occurrences-ii | Count Values With Equally Spaced Occurrences II | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/0000-count-values-with-equally-spaced-occurrences-ii/solution.java) |
 | counting-bits | Counting Bits | Easy | java | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](./solutions/Easy/0338-counting-bits/solution.java) |
 | course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
