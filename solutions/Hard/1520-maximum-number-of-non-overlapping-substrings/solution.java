@@ -4,7 +4,7 @@
 // Tags     : Hash Table, String, Greedy, Sorting
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 // Runtime  : 8 ms (beats 96%)
-// Memory   : 47940000 (beats 78%)
+// Memory   : 47968000 (beats 78%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
@@ -26,45 +26,45 @@ class Solution {
             last[c] = i;
         }
 
-        
-        List<int[]> intervals = new ArrayList<>();
+        List<int[]> validIntervals = new ArrayList<>();
+
         for (int i = 0; i < 26; i++) {
             if (first[i] == -1) continue;
 
             int l = first[i];
             int r = last[i];
-            boolean valid = true;
+            boolean isValid = true;
 
             for (int j = l; j <= r; j++) {
                 int c = s.charAt(j) - 'a';
-                if (first[c] < l) { 
-                    
-                    valid = false; 
-                    break; 
+                if (first[c] < l) {
+                    isValid = false; // Expanded outside our current left boundary
+                    break;
                 }
-                r = Math.max(r, last[c]);
+                r = Math.max(r, last[c]); // Expand right boundary to include all occurrences of char c
             }
 
-            if (valid) {
-                intervals.add(new int[]{l, r});
+            if (isValid) {
+                validIntervals.add(new int[]{l, r});
             }
         }
 
-        
-        intervals.sort((a, b) -> Integer.compare(a[1], b[1]));
+        // Sort intervals by their end points (Greedy Activity Selection)
+        validIntervals.sort((a, b) -> Integer.compare(a[1], b[1]));
 
-        // Step 4: Select non-overlapping intervals
-        List<String> result = new ArrayList<>();
-        int prevEnd = -1;
-        for (int[] interval : intervals) {
+        List<String> res = new ArrayList<>();
+        int lastEnd = -1;
+
+        for (int[] interval : validIntervals) {
             int l = interval[0];
             int r = interval[1];
-            if (l > prevEnd) {
-                result.add(s.substring(l, r + 1));
-                prevEnd = r;
+
+            if (l > lastEnd) {
+                res.add(s.substring(l, r + 1));
+                lastEnd = r;
             }
         }
 
-        return result;
+        return res;
     }
 }
