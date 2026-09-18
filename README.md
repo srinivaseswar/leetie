@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 130 Solved
+## Progress Summary: 131 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -61,6 +61,7 @@
 | intersection-of-two-arrays | Intersection of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
 | intersection-of-two-arrays-ii | Intersection of Two Arrays II | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.java) |
 | invert-binary-tree | Invert Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./solutions/Easy/0226-invert-binary-tree/solution.java) |
+| is-subsequence | Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
 | isomorphic-strings | Isomorphic Strings | Easy | java | [Problem](https://leetcode.com/problems/isomorphic-strings/) | [Solution](./solutions/Easy/0205-isomorphic-strings/solution.java) |
 | kth-largest-element-in-an-array | Kth Largest Element in an Array | Medium | java | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./solutions/Medium/0215-kth-largest-element-in-an-array/solution.java) |
 | kth-smallest-element-in-a-sorted-matrix | Kth Smallest Element in a Sorted Matrix | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution](./solutions/Medium/0378-kth-smallest-element-in-a-sorted-matrix/solution.java) |
