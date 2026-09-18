@@ -4,7 +4,7 @@
 // Tags     : Hash Table, String, Greedy, Sorting
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 // Runtime  : 8 ms (beats 96%)
-// Memory   : 47740000 (beats 94%)
+// Memory   : 48008000 (beats 61%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
@@ -22,7 +22,6 @@ class Solution {
         Arrays.fill(first, n);
         Arrays.fill(last, -1);
 
-        // Find first and last occurrence
         for (int i = 0; i < n; i++) {
 
             int c = s.charAt(i) - 'a';
@@ -33,7 +32,7 @@ class Solution {
 
         List<int[]> intervals = new ArrayList<>();
 
-        // Find valid interval for each character
+       
         for (int c = 0; c < 26; c++) {
 
             if (last[c] == -1)
@@ -48,13 +47,11 @@ class Solution {
 
                 int curr = s.charAt(i) - 'a';
 
-                // Character occurs before our interval
                 if (first[curr] < start) {
                     valid = false;
                     break;
                 }
 
-                // Need to include all occurrences
                 end = Math.max(end, last[curr]);
             }
 
@@ -63,14 +60,13 @@ class Solution {
             }
         }
 
-        // Sort by ending position
+     
         intervals.sort((a, b) -> Integer.compare(a[1], b[1]));
 
         List<String> ans = new ArrayList<>();
 
         int prevEnd = -1;
 
-        // Greedily choose non-overlapping intervals
         for (int[] interval : intervals) {
 
             int start = interval[0];
