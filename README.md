@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 132 Solved
+## Progress Summary: 133 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -112,6 +112,7 @@
 | rectangle-area | Rectangle Area | Medium | java | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.java) |
 | rectangle-overlap | Rectangle Overlap | Easy | java | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.java) |
 | remove-linked-list-elements | Remove Linked List Elements | Easy | java | [Problem](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](./solutions/Easy/0203-remove-linked-list-elements/solution.java) |
+| reverse-degree-of-a-string | Reverse Degree of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.java) |
 | reverse-linked-list | Reverse Linked List | Easy | java | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./solutions/Easy/0206-reverse-linked-list/solution.java) |
 | rising-temperature | Rising Temperature | Easy | mysql | [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution](./solutions/Easy/0197-rising-temperature/solution.sql) |
 | rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
