@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 177 Solved
+## Progress Summary: 178 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -158,6 +158,7 @@
 | second-highest-salary | Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | serialize-and-deserialize-binary-tree | Serialize and Deserialize Binary Tree | Hard | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.java) |
 | shuffle-an-array | Shuffle an Array | Medium | java | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.java) |
+| single-number-iii | Single Number III | Medium | java | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.java) |
 | sliding-window-maximum | Sliding Window Maximum | Hard | java | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.java) |
 | smallest-index-with-digit-sum-equal-to-index | Smallest Index With Digit Sum Equal to Index | Easy | java | [Problem](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Solution](./solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) |
 | smallest-stable-index-i | Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
