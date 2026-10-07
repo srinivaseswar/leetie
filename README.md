@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 182 Solved
+## Progress Summary: 183 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -166,6 +166,7 @@
 | smallest-index-with-digit-sum-equal-to-index | Smallest Index With Digit Sum Equal to Index | Easy | java | [Problem](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Solution](./solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) |
 | smallest-stable-index-i | Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
 | smallest-stable-index-ii | Smallest Stable Index II | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
+| sort-by | Sort By | Easy | javascript | [Problem](https://leetcode.com/problems/sort-by/) | [Solution](./solutions/Easy/2724-sort-by/solution.js) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | sum-of-two-integers | Sum of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
 | summary-ranges | Summary Ranges | Easy | java | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.java) |
