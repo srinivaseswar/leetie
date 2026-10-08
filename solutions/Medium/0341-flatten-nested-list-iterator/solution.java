@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Stack, Tree, Depth-First Search, Design, Queue, Iterator
 // Link     : https://leetcode.com/problems/flatten-nested-list-iterator/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42592000 (beats 0%)
+// Runtime  : 3 ms (beats 73%)
+// Memory   : 48080000 (beats 78%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
