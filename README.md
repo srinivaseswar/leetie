@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 196 Solved
+## Progress Summary: 197 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -108,6 +108,7 @@
 | majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
+| maximize-sum-of-squares-of-digits | Maximize Sum of Squares of Digits | Medium | java | [Problem](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Solution](./solutions/Medium/3723-maximize-sum-of-squares-of-digits/solution.java) |
 | maximum-alternating-sum-of-squares | Maximum Alternating Sum of Squares | Medium | java | [Problem](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Solution](./solutions/Medium/3727-maximum-alternating-sum-of-squares/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
 | maximum-nesting-depth-of-two-valid-parentheses-strings | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Solution](./solutions/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
