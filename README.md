@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 218 Solved
+## Progress Summary: 219 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -79,6 +79,7 @@
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | java | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.java) |
 | game-of-life | Game of Life | Medium | java | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.java) |
 | generate-parentheses | Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
+| generate-random-point-in-a-circle | Generate Random Point in a Circle | Medium | java | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.java) |
 | guess-number-higher-or-lower | Guess Number Higher or Lower | Easy | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.java) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.java) |
 | h-index | H-Index | Medium | java | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.java) |
