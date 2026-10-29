@@ -183,6 +183,7 @@
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
 | reverse-degree-of-a-string | Reverse Degree of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.java) |
 | reverse-linked-list | Reverse Linked List | Easy | java | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./solutions/Easy/0206-reverse-linked-list/solution.java) |
+| reverse-nodes-in-k-group | Reverse Nodes in k-Group | Hard | java | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./solutions/Hard/0025-reverse-nodes-in-k-group/solution.java) |
 | reverse-string | Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
 | reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
 | reverse-vowels-of-a-string | Reverse Vowels of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](./solutions/Easy/0345-reverse-vowels-of-a-string/solution.java) |
@@ -202,7 +203,6 @@
 | sort-by | Sort By | Easy | javascript | [Problem](https://leetcode.com/problems/sort-by/) | [Solution](./solutions/Easy/2724-sort-by/solution.js) |
 | string-compression | String Compression | Medium | java | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.java) |
 | subarrays-distinct-element-sum-of-squares-i | Subarrays Distinct Element Sum of Squares I | Easy | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Solution](./solutions/Easy/2913-subarrays-distinct-element-sum-of-squares-i/solution.java) |
-| substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | java | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | sum-of-squares-of-special-elements | Sum of Squares of Special Elements | Easy | java | [Problem](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Solution](./solutions/Easy/2778-sum-of-squares-of-special-elements/solution.java) |
 | sum-of-two-integers | Sum of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
