@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 228 Solved
+## Progress Summary: 229 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -232,5 +232,6 @@
 | verify-preorder-serialization-of-a-binary-tree | Verify Preorder Serialization of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Solution](./solutions/Medium/0331-verify-preorder-serialization-of-a-binary-tree/solution.java) |
 | wiggle-sort-ii | Wiggle Sort II | Medium | java | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.java) |
 | wiggle-subsequence | Wiggle Subsequence | Medium | java | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.java) |
+| wildcard-matching | Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | word-pattern | Word Pattern | Easy | java | [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](./solutions/Easy/0290-word-pattern/solution.java) |
 | xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | java | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.java) |
