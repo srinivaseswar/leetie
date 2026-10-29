@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Enumeration
 // Link     : https://leetcode.com/problems/largest-palindrome-product/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 40772000 (beats 0%)
+// Runtime  : 90 ms (beats 36%)
+// Memory   : 41728000 (beats 89%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
