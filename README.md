@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 211 Solved
+## Progress Summary: 212 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -212,6 +212,7 @@
 | valid-parentheses | Valid Parentheses | Easy | java | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.java) |
 | valid-perfect-square | Valid Perfect Square | Easy | java | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.java) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
+| validate-ip-address | Validate IP Address | Medium | java | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.java) |
 | verify-preorder-serialization-of-a-binary-tree | Verify Preorder Serialization of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Solution](./solutions/Medium/0331-verify-preorder-serialization-of-a-binary-tree/solution.java) |
 | wiggle-sort-ii | Wiggle Sort II | Medium | java | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.java) |
 | wiggle-subsequence | Wiggle Subsequence | Medium | java | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.java) |
