@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Bit Manipulation
 // Link     : https://leetcode.com/problems/number-complement/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 40912000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 41208000 (beats 99%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
