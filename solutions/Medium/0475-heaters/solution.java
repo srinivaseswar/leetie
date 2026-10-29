@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/heaters/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 41768000 (beats 0%)
+// Runtime  : 19 ms (beats 70%)
+// Memory   : 47472000 (beats 88%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
