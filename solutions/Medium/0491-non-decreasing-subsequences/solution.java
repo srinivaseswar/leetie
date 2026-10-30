@@ -4,7 +4,7 @@
 // Tags     : Array, Hash Table, Backtracking, Bit Manipulation
 // Link     : https://leetcode.com/problems/non-decreasing-subsequences/
 // Runtime  : 12 ms (beats 36%)
-// Memory   : 53640000 (beats 11%)
+// Memory   : 53388000 (beats 21%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
