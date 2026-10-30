@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 236 Solved
+## Progress Summary: 237 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -153,6 +153,7 @@
 | n-queens | N-Queens | Hard | java | [Problem](https://leetcode.com/problems/n-queens/) | [Solution](./solutions/Hard/0051-n-queens/solution.java) |
 | n-queens-ii | N-Queens II | Hard | java | [Problem](https://leetcode.com/problems/n-queens-ii/) | [Solution](./solutions/Hard/0052-n-queens-ii/solution.java) |
 | nim-game | Nim Game | Easy | java | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.java) |
+| non-decreasing-subsequences | Non-decreasing Subsequences | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.java) |
 | non-overlapping-intervals | Non-overlapping Intervals | Medium | java | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.java) |
 | nth-digit | Nth Digit | Medium | java | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.java) |
 | nth-highest-salary | Nth Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/nth-highest-salary/) | [Solution](./solutions/Medium/0177-nth-highest-salary/solution.sql) |
