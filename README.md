@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 237 Solved
+## Progress Summary: 238 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -32,6 +32,7 @@
 | combine-two-tables | Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | concatenated-words | Concatenated Words | Hard | java | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.java) |
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
+| construct-the-rectangle | Construct the Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | construct-uniform-parity-array-i | Construct Uniform Parity Array I | Easy | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.java) |
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | contains-duplicate-ii | Contains Duplicate II | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
