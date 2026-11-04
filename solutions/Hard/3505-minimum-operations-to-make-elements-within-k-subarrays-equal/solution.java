@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Math, Dynamic Programming, Sliding Window, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 42072000 (beats 0%)
+// Runtime  : 672 ms (beats 66%)
+// Memory   : 184492000 (beats 53%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
