@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 250 Solved
+## Progress Summary: 251 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -44,6 +44,7 @@
 | count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | java | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.java) |
 | count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | java | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
+| count-servers-that-communicate | Count Servers that Communicate | Medium | java | [Problem](https://leetcode.com/problems/count-servers-that-communicate/) | [Solution](./solutions/Medium/1267-count-servers-that-communicate/solution.java) |
 | count-subarrays-with-distant-sums | Count Subarrays with Distant Sums | Hard | java | [Problem](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | [Solution](./solutions/Hard/0000-count-subarrays-with-distant-sums/solution.java) |
 | count-the-repetitions | Count The Repetitions | Hard | java | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.java) |
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
