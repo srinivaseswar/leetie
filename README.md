@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 251 Solved
+## Progress Summary: 252 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -43,6 +43,7 @@
 | count-complete-tree-nodes | Count Complete Tree Nodes | Medium | java | [Problem](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](./solutions/Medium/0222-count-complete-tree-nodes/solution.java) |
 | count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | java | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.java) |
 | count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | java | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.java) |
+| count-non-decreasing-subarrays-after-k-operations | Count Non-Decreasing Subarrays After K Operations | Hard | java | [Problem](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Solution](./solutions/Hard/3420-count-non-decreasing-subarrays-after-k-operations/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | count-servers-that-communicate | Count Servers that Communicate | Medium | java | [Problem](https://leetcode.com/problems/count-servers-that-communicate/) | [Solution](./solutions/Medium/1267-count-servers-that-communicate/solution.java) |
 | count-subarrays-with-distant-sums | Count Subarrays with Distant Sums | Hard | java | [Problem](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | [Solution](./solutions/Hard/0000-count-subarrays-with-distant-sums/solution.java) |
