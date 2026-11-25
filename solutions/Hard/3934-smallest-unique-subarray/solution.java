@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Binary Search, Rolling Hash, Suffix Array, Hash Function
 // Link     : https://leetcode.com/problems/smallest-unique-subarray/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41908000 (beats 0%)
+// Runtime  : 395 ms (beats 61%)
+// Memory   : 255636000 (beats 39%)
 // Language : java
 // Copyright: (c) 2026 srinivaseswar. All rights reserved.
 // Synced by: leetie
