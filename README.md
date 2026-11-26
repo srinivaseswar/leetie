@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 254 Solved
+## Progress Summary: 255 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -223,6 +223,7 @@
 | smallest-stable-index-ii | Smallest Stable Index II | Medium | java | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.java) |
 | smallest-unique-subarray | Smallest Unique Subarray | Hard | java | [Problem](https://leetcode.com/problems/smallest-unique-subarray/) | [Solution](./solutions/Hard/3934-smallest-unique-subarray/solution.java) |
 | sort-by | Sort By | Easy | javascript | [Problem](https://leetcode.com/problems/sort-by/) | [Solution](./solutions/Easy/2724-sort-by/solution.js) |
+| stone-removal-game | Stone Removal Game | Easy | java | [Problem](https://leetcode.com/problems/stone-removal-game/) | [Solution](./solutions/Easy/3360-stone-removal-game/solution.java) |
 | string-compression | String Compression | Medium | java | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.java) |
 | subarrays-distinct-element-sum-of-squares-i | Subarrays Distinct Element Sum of Squares I | Easy | java | [Problem](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Solution](./solutions/Easy/2913-subarrays-distinct-element-sum-of-squares-i/solution.java) |
 | substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | java | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.java) |
